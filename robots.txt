@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mk2k3d.antam89.site/sitemap.xml
